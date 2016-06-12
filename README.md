@@ -8,7 +8,7 @@ Java simple OSC messaging library
 
 ##Package
 ```
-package net.aikelab.liblittleosc;
+import net.aikelab.liblittleosc.Osc;
 ```
 
 ##Example
